@@ -1,0 +1,26 @@
+{
+    "name": "ahmadsyamim/frontend-module",
+    "description": "",
+    "authors": [
+        {
+            "name": "Ahmad Syamim",
+            "email": "ahmad.syamim@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Frontend\\": ""
+        }
+    },
+    "require": {
+        "pvtl/voyager-frontend": "^1.0"
+    }
+}
