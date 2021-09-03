@@ -1,6 +1,7 @@
 {
     "name": "ahmadsyamim/frontend-module",
     "description": "",
+    "type": "laravel-module",
     "authors": [
         {
             "name": "Ahmad Syamim",
